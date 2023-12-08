@@ -3,7 +3,8 @@
       "testProject": {
         "name": "ElectricPython Developer Project",
         "description": "This is a test project",
-        "url": "https://taterowney.com/electricpython/devproject/"
+        "url": "https://taterowney.com/electricpython/devproject/",
+        "packages": ""
       }  
     }
   }
