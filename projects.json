@@ -1,6 +1,6 @@
 {
     "projects": {
-      "testProject": {
+      "devproject": {
         "name": "ElectricPython Developer Project",
         "description": "This is a test project",
         "url": "https://taterowney.com/electricpython/devproject/",
