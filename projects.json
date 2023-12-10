@@ -1,5 +1,12 @@
 {
     "projects": {
+        "datalogger": {
+            "name": "Data Logger and Visualizer",
+            "description": "This is a prototype of Tate's SSP, intended to improve upon Logger Pro. It is currently just a proof of concept.",
+            "url": "https://taterowney.com/electricpython/datalogger/project.zip",
+            "packages": ""
+        },
+        
       "devproject": {
         "name": "ElectricPython Developer Project",
         "description": "This is a test project",
